@@ -1,4 +1,4 @@
-# BarbeariaAlura
+# Barbearia Alura
 
 <h1>Apresentação</h1>
 <p>Site criado no curso de formação em HTML5 e CSS3</p>
